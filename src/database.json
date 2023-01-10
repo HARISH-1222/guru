@@ -1,0 +1,600 @@
+{
+     "amazon": [
+          {
+               "id": 1,
+               "name": "mi poco m2 (pitch black, 6gb ram, 64gb storage) mi poco m2 (pitch black, 6gb ram, 64gb storage)",
+               "link": "https://www.amazon.in//MI-Poco-Pitch-Black-Storage/dp/B08JCSS94S/ref=sr_1_1?keywords=poco+m2&qid=1673360475&sr=8-1",
+               "image": "https://m.media-amazon.com/images/I/71s8YAScnBL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "MI Poco M2 ",
+                    "detailPrice": "₹10,999",
+                    "detailSpecification": "(Pitch Black, 6GB RAM, 64GB Storage)",
+                    "detailRating": "3.8 out of 5 star",
+                    "detailCustomerRated": "139 ratings",
+                    "detailOffer": "15%",
+                    "detailEmi": " EMI starts at ₹526 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 2,
+               "name": "(renewed) mi poco m2 (pitch black, 6gb ram, 64gb storage) (renewed) mi poco m2 (pitch black, 6gb ram, 64gb storage)",
+               "link": "https://www.amazon.in//Renewed-MI-Pitch-Black-Storage/dp/B08N18LP23/ref=sr_1_2?keywords=poco+m2&qid=1673360475&sr=8-2",
+               "image": "https://m.media-amazon.com/images/I/51Q4-BEU6oL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "(Renewed) MI Poco M2 (Pitch Black, 6GB RAM, 64GB Storage)",
+                    "detailPrice": "₹9,987",
+                    "detailSpecification": "(Renewed) MI Poco M2 (Pitch Black, 6GB RAM, 64GB Storage)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "190 ratings",
+                    "detailOffer": "0%",
+                    "detailEmi": " EMI starts at ₹477 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 3,
+               "name": "poco-m2 slate blue (6gb ram 64gb rom) poco-m2 slate blue (6gb ram 64gb rom)",
+               "link": "https://www.amazon.in//Poco-M2-Slate-Blue-6GB-64GB/dp/B0BQ76W2GF/ref=sr_1_3?keywords=poco+m2&qid=1673360475&sr=8-3",
+               "image": "https://m.media-amazon.com/images/I/31lzqljjDuL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Poco-M2 Slate Blue ",
+                    "detailPrice": "₹9,499",
+                    "detailSpecification": "(6GB RAM 64GB ROM)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "0 customers rated..",
+                    "detailOffer": "27%",
+                    "detailEmi": " EMI starts at ₹454 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Returnable ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 4,
+               "name": "(renewed) mi poco m2 (slate blue, 6gb ram, 64gb storage) (renewed) mi poco m2 (slate blue, 6gb ram, 64gb storage)",
+               "link": "https://www.amazon.in//Renewed-MI-Poco-Slate-Storage/dp/B08N1BVP2L/ref=sr_1_4?keywords=poco+m2&qid=1673360475&sr=8-4",
+               "image": "https://m.media-amazon.com/images/I/51uvPGsEngL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "(Renewed) MI Poco M2 (Slate Blue, 6GB RAM, 64GB Storage)",
+                    "detailPrice": "₹8,998",
+                    "detailSpecification": "(Renewed) MI Poco M2 (Slate Blue, 6GB RAM, 64GB Storage)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "190 ratings",
+                    "detailOffer": "0%",
+                    "detailEmi": " EMI starts at ₹430 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 5,
+               "name": "poco-m2 pitch black (6gb ram 128gb rom) poco-m2 pitch black (6gb ram 128gb rom)",
+               "link": "https://www.amazon.in//Poco-M2-Pitch-Black-6GB-128GB/dp/B0BQ76NTH3/ref=sr_1_5?keywords=poco+m2&qid=1673360475&sr=8-5",
+               "image": "https://m.media-amazon.com/images/I/31fkPuB3mfL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Poco-M2 Pitch Black ",
+                    "detailPrice": "₹9,999",
+                    "detailSpecification": "(6GB RAM 128GB ROM)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "0 customers rated..",
+                    "detailOffer": "33%",
+                    "detailEmi": " EMI starts at ₹478 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Returnable ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 6,
+               "name": "mi poco m2 (brick red, 6gb ram, 64gb storage) mi poco m2 (brick red, 6gb ram, 64gb storage)",
+               "link": "https://www.amazon.in//MI-Poco-Brick-64GB-Storage/dp/B08JC59XFB/ref=sr_1_6?keywords=poco+m2&qid=1673360475&sr=8-6",
+               "image": "https://m.media-amazon.com/images/I/81UQWt+8PEL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "MI Poco M2 ",
+                    "detailPrice": "₹10,690",
+                    "detailSpecification": "(Brick Red, 6GB RAM, 64GB Storage)",
+                    "detailRating": "4.0 out of 5 star",
+                    "detailCustomerRated": "84 ratings",
+                    "detailOffer": "18%",
+                    "detailEmi": " EMI starts at ₹511 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 7,
+               "name": "(renewed) mi poco m2 (brick red, 6gb ram, 64gb storage) (renewed) mi poco m2 (brick red, 6gb ram, 64gb storage)",
+               "link": "https://www.amazon.in//Renewed-MI-Poco-Brick-Storage/dp/B08P51ZDTT/ref=sr_1_7?keywords=poco+m2&qid=1673360475&sr=8-7",
+               "image": "https://m.media-amazon.com/images/I/51lDTcYwAyL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "(Renewed) MI Poco M2 (Brick Red, 6GB RAM, 64GB Storage)",
+                    "detailPrice": "₹9,599",
+                    "detailSpecification": "(Renewed) MI Poco M2 (Brick Red, 6GB RAM, 64GB Storage)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "190 ratings",
+                    "detailOffer": "0%",
+                    "detailEmi": " EMI starts at ₹459 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 8,
+               "name": "poco m2 reloaded (greyish black, 64 gb) (4 gb ram) poco m2 reloaded (greyish black, 64 gb) (4 gb ram)",
+               "link": "https://www.amazon.in//POCO-Reloaded-Greyish-Black-RAM/dp/B09H1ZN8XM/ref=sr_1_8?keywords=poco+m2&qid=1673360475&sr=8-8",
+               "image": "https://m.media-amazon.com/images/I/31Aa+VgE+5L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "POCO M2 Reloaded ",
+                    "detailPrice": "₹9,999",
+                    "detailSpecification": "(Greyish Black, 64 GB) (4 GB RAM)",
+                    "detailRating": "4.1 out of 5 star",
+                    "detailCustomerRated": "96 ratings",
+                    "detailOffer": "17%",
+                    "detailEmi": " EMI starts at ₹478 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 9,
+               "name": "poco m2 (brick red, 6gb ram 64gb storage) poco m2 (brick red, 6gb ram 64gb storage)",
+               "link": "https://www.amazon.in//POCO-Brick-Red-64GB-Storage/dp/B0BMVKXJM9/ref=sr_1_9?keywords=poco+m2&qid=1673360475&sr=8-9",
+               "image": "https://m.media-amazon.com/images/I/31y9zso5w+L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "POCO M2 ",
+                    "detailPrice": "₹9,799",
+                    "detailSpecification": "(Brick Red, 6GB RAM 64GB Storage)",
+                    "detailRating": "4.0 out of 5 star",
+                    "detailCustomerRated": "0 customers rated..",
+                    "detailOffer": "25%",
+                    "detailEmi": " EMI starts at ₹468 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Returnable ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 10,
+               "name": "poco m2 reloaded (mostly blue, 64 gb) (4 gb ram) poco m2 reloaded (mostly blue, 64 gb) (4 gb ram)",
+               "link": "https://www.amazon.in//POCO-Reloaded-Mostly-Blue-RAM/dp/B09BZHFTF9/ref=sr_1_10?keywords=poco+m2&qid=1673360475&sr=8-10",
+               "image": "https://m.media-amazon.com/images/I/31G26FrlCxS._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "POCO M2 Reloaded ",
+                    "detailPrice": "₹9,999",
+                    "detailSpecification": "(Mostly Blue, 64 GB) (4 GB RAM)",
+                    "detailRating": "3.9 out of 5 star",
+                    "detailCustomerRated": "90 ratings",
+                    "detailOffer": "17%",
+                    "detailEmi": " EMI starts at ₹478 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 11,
+               "name": "mi poco m2 (slate blue, 6gb ram, 128gb storage) mi poco m2 (slate blue, 6gb ram, 128gb storage)",
+               "link": "https://www.amazon.in//MI-Poco-Slate-128GB-Storage/dp/B08JCMDGMZ/ref=sr_1_12?keywords=poco+m2&qid=1673360475&sr=8-12",
+               "image": "https://m.media-amazon.com/images/I/81cSHDyccxL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "MI Poco M2 ",
+                    "detailPrice": "₹13,999",
+                    "detailSpecification": "(Slate Blue, 6GB RAM, 128GB Storage)",
+                    "detailRating": "4.0 out of 5 star",
+                    "detailCustomerRated": "153 ratings",
+                    "detailOffer": "0%",
+                    "detailEmi": " EMI starts at ₹669 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 12,
+               "name": "poco-m2 brick red (6gb ram 64gb rom) poco-m2 brick red (6gb ram 64gb rom)",
+               "link": "https://www.amazon.in//Poco-M2-Brick-Red-6GB-64GB/dp/B0BQ78Y2MK/ref=sr_1_13?keywords=poco+m2&qid=1673360475&sr=8-13",
+               "image": "https://m.media-amazon.com/images/I/31y9zso5w+L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Poco-M2 Brick Red ",
+                    "detailPrice": "₹9,499",
+                    "detailSpecification": "(6GB RAM 64GB ROM)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "0 customers rated..",
+                    "detailOffer": "27%",
+                    "detailEmi": " EMI starts at ₹454 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Returnable ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 13,
+               "name": "(renewed) poco m2 reloaded (mostly blue, 64 gb) (4 gb ram) (renewed) poco m2 reloaded (mostly blue, 64 gb) (4 gb ram)",
+               "link": "https://www.amazon.in//Renewed-POCO-Reloaded-Mostly-Blue/dp/B09C8K2WXJ/ref=sr_1_14?keywords=poco+m2&qid=1673360475&sr=8-14",
+               "image": "https://m.media-amazon.com/images/I/31NVvKHQkjL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "(Renewed) POCO M2 Reloaded (Mostly Blue, 64 GB) (4 GB RAM)",
+                    "detailPrice": "₹9,289",
+                    "detailSpecification": "(Renewed) POCO M2 Reloaded (Mostly Blue, 64 GB) (4 GB RAM)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "2 ratings",
+                    "detailOffer": "0%",
+                    "detailEmi": " EMI starts at ₹444 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 14,
+               "name": "(renewed) mi poco m2 pro (two shades of black, 6gb ram, 64gb storage) (renewed) mi poco m2 pro (two shades of black, 6gb ram, 64gb storage)",
+               "link": "https://www.amazon.in//Renewed-MI-Shades-Black-Storage/dp/B08LZ82TK9/ref=sr_1_15?keywords=poco+m2&qid=1673360475&sr=8-15",
+               "image": "https://m.media-amazon.com/images/I/61bpDVb+k2L._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "(Renewed) MI Poco M2 Pro (Two Shades of Black, 6GB RAM, 64GB Storage)",
+                    "detailPrice": "₹11,899",
+                    "detailSpecification": "(Renewed) MI Poco M2 Pro (Two Shades of Black, 6GB RAM, 64GB Storage)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "467 ratings",
+                    "detailOffer": "0%",
+                    "detailEmi": " EMI starts at ₹569 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 15,
+               "name": "poco-m2 pitch black (6gb ram 64gb rom) poco-m2 pitch black (6gb ram 64gb rom)",
+               "link": "https://www.amazon.in//Poco-M2-Pitch-Black-6GB-64GB/dp/B0BQ7671JF/ref=sr_1_16?keywords=poco+m2&qid=1673360475&sr=8-16",
+               "image": "https://m.media-amazon.com/images/I/31fkPuB3mfL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "Poco-M2 Pitch Black ",
+                    "detailPrice": "₹9,499",
+                    "detailSpecification": "(6GB RAM 64GB ROM)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "0 customers rated..",
+                    "detailOffer": "27%",
+                    "detailEmi": " EMI starts at ₹454 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Returnable ",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 16,
+               "name": "(renewed) mi poco m2 pro (two shades of black, 4gb ram, 64gb internal storage) (renewed) mi poco m2 pro (two shades of black, 4gb ram, 64gb internal storage)",
+               "link": "https://www.amazon.in//Renewed-MI-Shades-Internal-Storage/dp/B08PZ9CPG3/ref=sr_1_17?keywords=poco+m2&qid=1673360475&sr=8-17",
+               "image": "https://m.media-amazon.com/images/I/61YpaCFkVrL._AC_UY218_.jpg",
+               "detials": {
+                    "detailName": "(Renewed) MI Poco M2 Pro (Two Shades of Black, 4GB RAM, 64GB Internal Storage)",
+                    "detailPrice": "₹10,799",
+                    "detailSpecification": "(Renewed) MI Poco M2 Pro (Two Shades of Black, 4GB RAM, 64GB Internal Storage)",
+                    "detailRating": "0 ratings",
+                    "detailCustomerRated": "467 ratings",
+                    "detailOffer": "0%",
+                    "detailEmi": " EMI starts at ₹516 per month. ",
+                    "detailDeliveryChrage": "Free Delivery",
+                    "detialReplacement": " 7 days Replacement ",
+                    "DetialSpec": {}
+               }
+          }
+     ],
+     "flipkart": [
+          {
+               "id": 1,
+               "name": "poco m2 reloaded (mostly blue, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-reloaded-mostly-blue-64-gb/p/itmc50149a5b8e51?pid=MOBG25SQQBWTVPZS&lid=LSTMOBG25SQQBWTVPZSAGDHGT&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_1&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBG25SQQBWTVPZS.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/knoxnrk0/mobile/g/t/b/m2-reloaded-mzb0958in-poco-original-imag2aqysugzcdhu.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Reloaded",
+                    "detailPrice": "₹11,999",
+                    "detailSpecification": "(Mostly Blue, 64 GB)  (4 GB RAM)",
+                    "detailRating": "4.3 out of 5 stars",
+                    "detailCustomerRated": "66,728 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 2,
+               "name": "poco m2 reloaded (greyish black, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-reloaded-greyish-black-64-gb/p/itm5253dd3e8c12a?pid=MOBG25SQ9RSAB8M3&lid=LSTMOBG25SQ9RSAB8M3NSTEXP&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_2&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBG25SQ9RSAB8M3.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/knoxnrk0/mobile/4/b/p/m2-reloaded-mzb0957in-poco-original-imag2aqyhdfvsty8.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Reloaded",
+                    "detailPrice": "₹9,999",
+                    "detailSpecification": "(Greyish Black, 64 GB)  (4 GB RAM)",
+                    "detailRating": "4.3 out of 5 stars",
+                    "detailCustomerRated": "66,728 Ratings found...!",
+                    "detailOffer": "9% off",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 3,
+               "name": "poco m2 pro (out of the blue, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-out-blue-64-gb/p/itm9fa1bcc61b2c1?pid=MOBFT7MKRQXK9KKF&lid=LSTMOBFT7MKRQXK9KKFVOC7BR&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_3&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MKRQXK9KKF.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/b/b/u/poco-m2-pro-mzb9628in-original-imaftg8dbxfqhddh.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹16,999",
+                    "detailSpecification": "(Out of the Blue, 64 GB)  (4 GB RAM)",
+                    "detailRating": "4.3 out of 5 stars",
+                    "detailCustomerRated": "2,48,477 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 4,
+               "name": "poco m2 pro (out of the blue, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-out-blue-64-gb/p/itmca92df4f824d5?pid=MOBFT7MKV4EZTNRS&lid=LSTMOBFT7MKV4EZTNRSE1BOHO&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_4&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MKV4EZTNRS.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/b/b/u/poco-m2-pro-mzb9628in-original-imaftg8dbxfqhddh.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹17,999",
+                    "detailSpecification": "(Out of the Blue, 64 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "3,50,287 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 5,
+               "name": "poco m2 pro (green and greener, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-green-greener-64-gb/p/itm5de3b6eb57ab4?pid=MOBFT7MKFHTAPDYD&lid=LSTMOBFT7MKFHTAPDYDNCICXM&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_5&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MKFHTAPDYD.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/c/w/a/poco-m2-pro-mzb9625in-original-imaftga2ytmnt7ac.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹16,999",
+                    "detailSpecification": "(Green and Greener, 64 GB)  (4 GB RAM)",
+                    "detailRating": "4.3 out of 5 stars",
+                    "detailCustomerRated": "2,48,477 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 6,
+               "name": "poco m2 pro (green and greener, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-green-greener-64-gb/p/itm795e36b373b6f?pid=MOBFT7MK3Q89BGWR&lid=LSTMOBFT7MK3Q89BGWRN4ZHYY&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_6&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MK3Q89BGWR.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/c/w/a/poco-m2-pro-mzb9625in-original-imaftga2ytmnt7ac.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹17,999",
+                    "detailSpecification": "(Green and Greener, 64 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "3,50,287 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 7,
+               "name": "poco m2 pro (two shades of black, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-two-shades-black-64-gb/p/itmaf67e90291adf?pid=MOBFT7MKC9DMG2PU&lid=LSTMOBFT7MKC9DMG2PUNVVJJB&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_7&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MKC9DMG2PU.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/2/p/u/poco-m2-pro-mzb9621in-original-imaftg9fkdpgbgxq.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹17,999",
+                    "detailSpecification": "(Two Shades of Black, 64 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "3,50,287 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 8,
+               "name": "poco m2 pro (green and greener, 128 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-green-greener-128-gb/p/itm0790688fdea0e?pid=MOBFT7MKBN2PUCWA&lid=LSTMOBFT7MKBN2PUCWAG1ID9L&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_8&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MKBN2PUCWA.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/c/w/a/poco-m2-pro-mzb9625in-original-imaftga2ytmnt7ac.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹19,999",
+                    "detailSpecification": "(Green and Greener, 128 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "3,50,287 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 9,
+               "name": "poco m2 pro (out of the blue, 128 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-out-blue-128-gb/p/itm151565feac420?pid=MOBFT7MKCGTQTBBU&lid=LSTMOBFT7MKCGTQTBBUZNYVPE&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_9&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MKCGTQTBBU.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/b/b/u/poco-m2-pro-mzb9628in-original-imaftg8dbxfqhddh.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹19,999",
+                    "detailSpecification": "(Out of the Blue, 128 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "3,50,287 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 10,
+               "name": "poco m2 pro (two shades of black, 128 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-two-shades-black-128-gb/p/itm4ce7da562a7bb?pid=MOBFT7MKJXZPFPMS&lid=LSTMOBFT7MKJXZPFPMSK00QGH&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_10&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MKJXZPFPMS.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/2/p/u/poco-m2-pro-mzb9621in-original-imaftg9fkdpgbgxq.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹19,999",
+                    "detailSpecification": "(Two Shades of Black, 128 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "3,50,287 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 11,
+               "name": "poco m2 pro (two shades of black, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pro-two-shades-black-64-gb/p/itm4407b569c65a0?pid=MOBFT7MKEZUJWFFZ&lid=LSTMOBFT7MKEZUJWFFZXVRSFP&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_11&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFT7MKEZUJWFFZ.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/2/p/u/poco-m2-pro-mzb9621in-original-imaftg9fkdpgbgxq.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2 Pro",
+                    "detailPrice": "₹16,999",
+                    "detailSpecification": "(Two Shades of Black, 64 GB)  (4 GB RAM)",
+                    "detailRating": "4.3 out of 5 stars",
+                    "detailCustomerRated": "2,48,477 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 12,
+               "name": "poco m2 (pitch black, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pitch-black-64-gb/p/itm630300707d0a5?pid=MOBFV9V92KHMFCVF&lid=LSTMOBFV9V92KHMFCVFXHKCWC&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_12&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFV9V92KHMFCVF.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kesv0y80/mobile/p/2/x/poco-m2-mzb9918in-original-imafvdqw3bbewa42.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2",
+                    "detailPrice": "₹12,999",
+                    "detailSpecification": "(Pitch Black, 64 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "4,07,498 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 13,
+               "name": "poco m2 (slate blue, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-slate-blue-64-gb/p/itmfd82e37cf60fb?pid=MOBFV9V96DHYMUHJ&lid=LSTMOBFV9V96DHYMUHJIA0JEG&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_14&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFV9V96DHYMUHJ.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kesv0y80/mobile/n/u/v/poco-m2-mzb9920in-original-imafvdrfhhuzcnyw.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2",
+                    "detailPrice": "₹12,999",
+                    "detailSpecification": "(Slate Blue, 64 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "4,07,498 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 14,
+               "name": "poco m2 (slate blue, 128 gb)",
+               "link": "https://www.flipkart.com/poco-m2-slate-blue-128-gb/p/itmf3c6e76492ff5?pid=MOBFV9V9XZJJ9NUV&lid=LSTMOBFV9V9XZJJ9NUVW6LHR5&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_15&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFV9V9XZJJ9NUV.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kesv0y80/mobile/n/u/v/poco-m2-mzb9920in-original-imafvdrfhhuzcnyw.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2",
+                    "detailPrice": "₹14,999",
+                    "detailSpecification": "(Slate Blue, 128 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "4,07,498 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 15,
+               "name": "poco m2 (brick red, 128 gb)",
+               "link": "https://www.flipkart.com/poco-m2-brick-red-128-gb/p/itm4a652f8f061c0?pid=MOBFV9V9KMAHY3AJ&lid=LSTMOBFV9V9KMAHY3AJLPSTVP&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_16&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFV9V9KMAHY3AJ.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kerfl3k0/mobile/a/k/q/poco-m2-mzb9921in-original-imafvdpvfhdbgqhg.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2",
+                    "detailPrice": "₹14,999",
+                    "detailSpecification": "(Brick Red, 128 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "4,07,498 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 16,
+               "name": "poco m2 (brick red, 64 gb)",
+               "link": "https://www.flipkart.com/poco-m2-brick-red-64-gb/p/itmcffd4eceea723?pid=MOBFV9V9H3BBYAKQ&lid=LSTMOBFV9V9H3BBYAKQR7NWC9&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_17&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFV9V9H3BBYAKQ.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kerfl3k0/mobile/a/k/q/poco-m2-mzb9921in-original-imafvdpvfhdbgqhg.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2",
+                    "detailPrice": "₹12,999",
+                    "detailSpecification": "(Brick Red, 64 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "4,07,498 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          },
+          {
+               "id": 17,
+               "name": "poco m2 (pitch black, 128 gb)",
+               "link": "https://www.flipkart.com/poco-m2-pitch-black-128-gb/p/itma0a70051e6b5e?pid=MOBFV9V9MC4PZP2X&lid=LSTMOBFV9V9MC4PZP2XPWVAYG&marketplace=FLIPKART&q=poco++m2&store=tyy%2F4io&srno=s_1_18&otracker=AS_Query_HistoryAutoSuggest_5_0&otracker1=AS_Query_HistoryAutoSuggest_5_0&fm=organic&iid=bd95907c-6cf6-4831-8826-abf0623760ca.MOBFV9V9MC4PZP2X.SEARCH&ppt=None&ppn=None&ssid=euczb426r40000001673360475940&qH=54f99d7f2870cd60",
+               "image": "https://rukminim1.flixcart.com/image/312/312/kesv0y80/mobile/p/2/x/poco-m2-mzb9918in-original-imafvdqw3bbewa42.jpeg?q=70",
+               "detials": {
+                    "detailName": "POCO M2",
+                    "detailPrice": "₹14,999",
+                    "detailSpecification": "(Pitch Black, 128 GB)  (6 GB RAM)",
+                    "detailRating": "4.4 out of 5 stars",
+                    "detailCustomerRated": "4,07,498 Ratings found...!",
+                    "detailOffer": "0%",
+                    "detailEmi": "Sign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500*",
+                    "detailDeliveryChrage": "based on location",
+                    "detialReplacement": "7 day seller replacement policy/brand assistance for device issues*?GST invoice available?",
+                    "DetialSpec": {}
+               }
+          }
+     ]
+}
